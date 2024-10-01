@@ -4,7 +4,6 @@ function Header() {
   return (
     <>
       <div className="h-[95px] w-full bg-gradient-to-r from-[#8D6E63] via-[#A67C52] to-[#8D6E63] flex justify-between items-center shadow-lg">
-        {/* Logo Section */}
         <div className="h-[88px] font-playfair w-[220px] px-[27px] py-[8px] text-[#d5a624] font-bold bg-[#4271F4] text-[24px] rounded-xl border-2 border-solid border-[#F4C542] hover:cursor-pointer hover:opacity-95 transform transition-transform hover:scale-105">
           <span>
             The <span className="text-[#F4C542]">Heritage</span> <br />{" "}
