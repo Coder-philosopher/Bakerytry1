@@ -13,7 +13,7 @@ function Header() {
         </div>
 
         {/* Navigation Menu */}
-        <div className="mx-8 h-full w-[750px] rounded-xl">
+        <div className="mx-8 h-full w-[750px] rounded-xl sm:hidden">
           <ul
             className="flex h-full items-center font-playfair justify-around
            text-[#f6d26f] text-[18px] font-bold space-x-6"
