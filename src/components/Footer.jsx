@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
-      <div className="w-full h-[400px] bg-[#b4906f] py-40 md:py-10 flex justify-center items-center font-poppins font-[450] text-[16px]">
+      <div className="w-full h-[800px] bg-[#b4906f] py-30 md:py-10 flex justify-center items-center font-poppins font-[450] text-[16px]">
         <div className="h-full w-1/3 border-l border-solid border-[#4E342E] flex flex-col justify-center  px-6 items-start">
           <h1 className="font-[600] text-xl">Business & Collaborations</h1>
           <br />
